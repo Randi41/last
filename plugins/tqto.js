@@ -12,7 +12,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 let cap = `*BIG THANKS TO*
     
 Terutama Terimakasih Teruntuk:
-➸ @${'6288279268363'.split('@')[0]}
+➸ @${'6285752583246'.split('@')[0]}
 
 Terimakasih Juga Untuk Kang Banned:
 ➸ 0@s.whatsapp.net
@@ -20,41 +20,8 @@ Terimakasih Juga Untuk Kang Banned:
 ─────────────────────
 • God
 • My ortu
-• King Of Bear ( Me )
-• Nurutomo
-• Adiwajshing
-• Ariffb
-• Amel
-• IrwanX
-• Dawnfrosty
-• Rteam1
-• Beniismael
-• Raditya 
-• AlyaaXzy 
-• Haori 
-• David
-• Rozi
-• Letta
-• Yanzz
-• Furqan
-• Elyas
-• Rasel
-• Xteam
-• Khael
-• Atenabot
-• Baka Botz
-• ZeeoneOfc
-• Zeks
-• Rendycraft  
-• Krizynofc
-• Nadin
-• Mursid
-• Jarot
-• Tio
-• Aca Mirabel
-• Ramdani
-• Penyedia Layanan API
-• Orang-orang yang Berdonasi
+• Randi Saputra
+
 ─────────────────────`
   let buttonMessage= {
 'document':{'url':'https://youtu.be/hklv-Ysqqac'},

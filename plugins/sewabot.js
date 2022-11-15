@@ -58,7 +58,7 @@ Untuk fitur bot bisa baca menu sampai selesai ya kak, dicoba coba dulu biar tau 
 Silahkan hubungi owner ( Ketik *.owner* ) jika ingin menyewa bot untuk grup chat kalian
 
 ➠ Sewa (Join Grup) harga 50K / Permanent dan apabila bot di kick dari grup sengaja atau tidak sengaja tidak bisa di join kan lagi (Hangus).
-➠ Pembayaran saat ini hanya tersedia via Qris.
+➠ Pembayaran saat ini hanya tersedia via APLIKASI DANA
 ➠ Proses transaksi seperti pada umumnya, chat owner terlebih dahulu untuk menanyakan nomor tujuan transfer setelah itu screenshot bukti pembayaran.
 ➠ *Penting!* simpan nomor owner dan join ke dalam grup official dibawah untuk mengetahui update nomor bot terbaru apabila ter-banned.
 ➠ Bot bisa di pindah pin
